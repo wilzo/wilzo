@@ -55,7 +55,6 @@ Sempre busco aprender novas tecnologias, criar soluções inteligentes e evoluir
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilzo&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilzo&layout=compact&theme=radical"/>
 </div>
 
