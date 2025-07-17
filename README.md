@@ -26,6 +26,7 @@ site: https://wilsonportifoliodev.vercel.app/
 
 ### 🧠 Back-End
 - Node.js com Express
+- Java
 - MySQL 
 - PostgreSQL (em estudo)
 
