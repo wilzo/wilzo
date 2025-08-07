@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco atual em aplicações *
 
 Sempre busco aprender novas tecnologias, criar soluções inteligentes e evoluir como profissional e como pessoa.
 
-site: https://wilsonportifoliodev.vercel.app/
+site: https://meu-portifolio-xi-rust.vercel.app/
 
 ---
 
