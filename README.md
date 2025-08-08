@@ -27,7 +27,7 @@
 
 ### 🌱 Quero aprender
 - Python 🐍
-- Next.js ⚡
+- Go ⚡
 
 ---
 
