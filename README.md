@@ -11,7 +11,7 @@
 ---
 
 ### 🛠 Tecnologias e Ferramentas
-**Front-End:** React.js, TypeScript, JavaScript, HTML5, CSS3, TailwindCSS, Material UI  
+**Front-End:** React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, TailwindCSS, Material UI  
 **Mobile:** Flutter  
 **Back-End:** Node.js (Express), Java, MySQL, PostgreSQL  
 **Outros:** Git/GitHub, Docker, Postman, Figma
